@@ -1,1 +1,1 @@
-Hello a new command 
+Hello
