@@ -10,4 +10,8 @@ how many lines this time?
 Did it rewrite?
 how many lines this time?
 One last time, i cannot understand what the big difference
+<<<<<<< HEAD
 last locally
+=======
+last remotely
+>>>>>>> 8e30960 (last line changed)
