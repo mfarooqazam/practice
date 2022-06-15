@@ -6,3 +6,21 @@ Bugfix-1 Branch from local
 
 Some new line added
 From bugfix-1
+This is from local
+This is with rebase 
+
+Trying stash
+
+Stash-2
+Stash-1
+
+
+undoing commit with soft
+
+practicing ammend - try 2 for remote ammend again
+
+now with soft remote + local + okay
+
+practicing git reset with hash, what the hell
+
+Main
